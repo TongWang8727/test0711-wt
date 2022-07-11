@@ -1,0 +1,29 @@
+.blue-button button{
+    background: #02BBD3;
+    border: 1px solid #00BBD3;
+    border-radius: 4px;
+    height: 39px;
+    width: 178px;
+    color: #fff;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+}
+.green-button button{
+    background: rgba(111, 207, 151, 0.2);
+    border: 0px solid rgba(111, 207, 151, 0.2);
+    border-radius: 4px;
+    height: 39px;
+    width: 178px;
+    color: #27AE60;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+}
+

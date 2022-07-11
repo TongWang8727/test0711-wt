@@ -1,0 +1,29 @@
+.mobbile-main-frame{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mobbile-main-img{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 20px;
+    align-items:center;
+}
+.mobbile-main-img img{
+   width:342px;
+   display: flex;
+   flex-direction: column;
+    justify-content: center;
+  
+}
+.mobbile-main-price-card{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}

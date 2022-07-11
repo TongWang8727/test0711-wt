@@ -1,0 +1,174 @@
+.mobbile-price-card-frame{
+    width: 312px;
+    border-radius: 8px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #828282;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: center;
+    background: #FFFFFF;
+    margin-right: 8px;
+    margin-left: 8px;
+    border: 1px solid #F2F2F2;
+    box-shadow: 4px 8px 8px rgba(0, 0, 0, 0.02);
+    margin-bottom: 24px;
+}
+.mobbile-price-card-header{
+    width: 265px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    border-bottom: 1px solid #F2F2F2;
+    border-radius :8px,8px,0px,0px;
+}
+.mobbile-price-card-header-onclick{
+    width: 265px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    border-bottom: 1px solid #F2F2F2;
+    border-radius:8px 8px 0px 0px;
+    background: #6FCF97;
+    color: #fff;
+}
+.mobbile-price-card-header-typaName{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #324D59;
+    margin-bottom: 13px;
+}
+.mobbile-price-card-header-typaName-onclick{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 13px;
+}
+.mobbile-price-card-header-price{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: right;
+    letter-spacing: 0.5px;
+    color: #324D59;
+}
+.mobbile-price-card-header-price-onclick{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: right;
+    letter-spacing: 0.5px;
+    color: #fff;
+}
+.mobbile-price-card-center{
+    width: 265px;
+    height: 79px;
+    background: #FFFFFF;
+    padding-left:24px ;
+    padding-right: 24px;
+    padding-top: 15px;
+    border-bottom: 1px solid #F2F2F2;
+    border-top: 1px solid #F2F2F2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content:space-between;
+}
+.mobbile-price-card-center-context{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+.mobbile-price-card-context{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: right;
+    letter-spacing: 0.5px;
+    color: #324D59;
+}
+.mobbile-price-card-center-context-frame{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: space-between;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.mobbile-price-card-center-context-num{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: right;
+    color: #324D59;
+}
+.mobbile-price-card-footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: center;
+}
+.mobbile-price-card-footer-ul{
+    list-style-image:url(../../../../assets/tick.png);
+    text-align: left;
+    margin-top: 10px;
+    margin-left: -50px;
+
+}
+.mobbile-price-card-footer-ul-onclick{
+    list-style-image:url(../../../../assets/GreenTick.png);
+    text-align: left;
+    margin-top: 10px;
+    margin-left: -50px;
+
+}
+.mobbile-price-card-footer-ul ul{
+    padding-inline-start: 0px;
+}
+
+.mobbile-price-card-footer-ul-onclick ul{
+    padding-inline-start: 0px;
+}
+.mobbile-price-card-footer-ul li{
+    width: 154px;
+    margin-top: 10px;
+}
+.mobbile-price-card-footer-ul-onclick li{
+    width: 154px;
+    margin-top: 10px;
+}
+.mobbile-price-card-footer-btn{
+    margin-bottom: 24px;
+}
+.mobbile-price-card-footer-btn-plan{
+    margin-bottom: 8px;
+    margin-top: 15px;
+}
